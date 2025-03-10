@@ -1,5 +1,14 @@
 # Intel RealSense ROS2 Setup Guide
 
+## Wstęp
+Ten przewodnik opisuje kroki niezbędne do instalacji, konfiguracji i uruchomienia kamery Intel RealSense w systemie ROS2 (Humble). Przedstawia sposób integracji kamery w środowisku ROS2, w tym:
+
+wyświetlanie obrazu,
+przetwarzanie danych głębi,
+konfigurację chmury punktów (Point Cloud) w RViz.
+Przewodnik został opracowany z myślą o użytkownikach, którzy chcą wykorzystać kamerę RealSense do projektów związanych z robotyką, wizją komputerową lub analizą otoczenia. Zawiera również wskazówki dotyczące instalacji w środowisku maszyny wirtualnej.
+
+
 ## Spis treści
 1. [Wymagania](#wymagania)
 2. [Instalacja](#instalacja)
