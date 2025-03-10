@@ -111,6 +111,9 @@ ros2 topic echo /camera/camera/color/image_raw
 2. W RViz → **Display → Add** → **Image**
 3. Zmień topic na `/camera/camera/color/image_raw`
 
+   LUB
+**RViz** → **Add → By Topic** → **/camera/camera/depth/image_rect_raw**.
+
 ---
 
 ## Point Cloud w RViz
@@ -131,7 +134,7 @@ pointcloud:
 
 ### 2. Uruchomienie RViz
 ```bash
-ros2 launch realsense2_description view_model.launch.py model:=test_d455_camera.urdf.xacro
+ros2 launch realsense2_description view_model.launch.py
 ```
 W **RViz** → **Add → By Topic** → **/camera/camera/depth/image_rect_raw**.
 
