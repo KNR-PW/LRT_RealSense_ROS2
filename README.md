@@ -6,6 +6,7 @@ Ten przewodnik opisuje kroki niezbędne do instalacji, konfiguracji i uruchomien
 wyświetlanie obrazu,
 przetwarzanie danych głębi,
 konfigurację chmury punktów (Point Cloud) w RViz.
+
 Przewodnik został opracowany z myślą o użytkownikach, którzy chcą wykorzystać kamerę RealSense do projektów związanych z robotyką, wizją komputerową lub analizą otoczenia. Zawiera również wskazówki dotyczące instalacji w środowisku maszyny wirtualnej.
 
 
